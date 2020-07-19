@@ -1,0 +1,21 @@
+package DynamicDispatch;
+
+
+class A2{
+	public void show() throws ArrayIndexOutOfBoundsException{
+		System.out.println("display");
+	}
+}
+class B2 extends A2{
+	public void show () throws IndexOutOfBoundsException{
+		System.out.println("show");
+	}
+}
+public class DynamicDispatch3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

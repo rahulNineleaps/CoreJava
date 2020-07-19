@@ -1,0 +1,29 @@
+package ConstructorChaining;
+
+
+class Base1 {
+	String name;
+
+	Base1() {
+		//this("");
+		System.out.println("in base no argument Constructor");
+	}
+	/*
+	 * Base(String s) { this.name = s;
+	 * System.out.println("in base of argument Constructor ::" ); }
+	 */
+}
+
+class Derived1 extends Base1 {
+	public Derived1() {
+		System.out.println("in no argument constructor of derived ");
+	}
+
+	public Derived1(String s) {
+		this();
+		System.out.println("argument constructor of derived ");
+	}
+}
+public class PlayingWithConstructorChaining {
+
+}

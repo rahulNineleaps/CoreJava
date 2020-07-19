@@ -1,0 +1,15 @@
+
+r
+java:S1161":Add the "@Override" annotation above this method signature(ãëš²ÿÿÿÿÿ8êø¸´´.H“RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ë›Ãİ8êø¸´´.HRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¤ÀÒ“üÿÿÿÿ8êø¸´´.H’RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ƒµáÀùÿÿÿÿ8êø¸´´.H”RMAJORZ
+CODE_SMELL
+Y
+java:S2387"$"val" is the name of a field in "A".(­‘”©8êø¸´´.H‘RBLOCKERZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ØâÍ´HRMINORZ
+CODE_SMELL

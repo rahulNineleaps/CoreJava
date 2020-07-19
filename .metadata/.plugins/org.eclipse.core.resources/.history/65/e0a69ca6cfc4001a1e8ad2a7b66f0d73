@@ -1,0 +1,27 @@
+package DynamicDispatch;
+
+class A {
+	int val = 1;
+
+	public void display() {
+		System.out.println("in class A");
+	}
+}
+
+class B extends A {
+	int val = 2;
+
+	public void display() {
+		System.out.println("in class B");
+	}
+}
+
+public class DynamicDispatch1 {
+
+	public static void main(String[] args) {
+		A a = new B();
+		a.display();
+		System.out.println(a.val);
+	}
+
+}

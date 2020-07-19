@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="DynamicDispatch.B"/>
+    <fullyQualifiedTypeName name="DynamicDispatch.A"/>
+    <fullyQualifiedTypeName name="com.sun.swing.internal.plaf.basic.resources.basic"/>
+    <fullyQualifiedTypeName name="DynamicDispatch.B1"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="ConstructorChaining.ConstructorChaining1"/>
+    <fullyQualifiedTypeName name="ConstructorChaining.Base"/>
+    <fullyQualifiedTypeName name="ConstructorChaining.Derived"/>
+    <fullyQualifiedTypeName name="ConstructorChaining.Derived1"/>
+</qualifiedTypeNameHistroy>

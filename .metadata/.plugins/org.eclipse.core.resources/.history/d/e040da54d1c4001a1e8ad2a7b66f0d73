@@ -1,0 +1,18 @@
+package DynamicDispatch;
+
+class A1 {
+	public void run1() {
+		System.out.println("running 1");
+	}
+}
+class B1 extends A1{
+	public void run1() {
+		System.out.println("running 1b");
+	}
+	public void run2() {
+		System.out.println("running 2");
+	}
+}
+public class DynamicDispatch2 {
+
+}

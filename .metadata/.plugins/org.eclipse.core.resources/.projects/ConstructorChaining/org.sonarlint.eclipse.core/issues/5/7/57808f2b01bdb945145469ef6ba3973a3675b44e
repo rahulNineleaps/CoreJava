@@ -1,0 +1,21 @@
+
+o	java:S106
+"9Replace this use of System.out or System.err by a logger.(־‏פ·תÿÿÿÿ8®ֱ׀ֽ´.HhRMAJORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(ֹ‎ִ¡תÿÿÿÿ8¯—טֽ´.HnRMAJORZ
+CODE_SMELL
+„	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ê״¼HkRMINORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(ַ״ֹ‏ÿÿÿÿ8®ֱ׀ֽ´.HlRMAJORZ
+CODE_SMELL
+l
+java:S1118":Add a private constructor to hide the implicit public one.(¬†ˆ8ֿיכֽ´.HoRMAJORZ
+CODE_SMELL
+m
+java:S1854!"6Remove this useless assignment to local variable "d1".(¾¬ץ‚‎ÿÿÿÿ8ֿיכֽ´.HmRMAJORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(ֲ‏שÿÿÿÿ8›Þטֽ´.HjRMAJORZ
+CODE_SMELL
+^
+java:S1481!"'Remove this unused "d1" local variable.(¾¬ץ‚‎ÿÿÿÿ8ֿיכֽ´.HiRMINORZ
+CODE_SMELL

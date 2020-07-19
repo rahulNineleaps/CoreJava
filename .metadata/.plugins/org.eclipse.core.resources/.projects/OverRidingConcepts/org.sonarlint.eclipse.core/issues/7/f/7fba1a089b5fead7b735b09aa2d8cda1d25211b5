@@ -1,0 +1,19 @@
+
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ÍŠÅú8³áÑ¶´.HRMAJORZ
+CODE_SMELL
+q
+java:S1161	":Add the "@Override" annotation above this method signature(·Î°‚ÿÿÿÿÿ8³áÑ¶´.HRMAJORZ
+CODE_SMELL
+o	java:S106
+"9Replace this use of System.out or System.err by a logger.(„Ú†øüÿÿÿÿ8³áÑ¶´.HRMAJORZ
+CODE_SMELL
+„	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ØâÍ´H
+RMINORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.( §‹³úÿÿÿÿ8³áÑ¶´.HRMAJORZ
+CODE_SMELL
+o
+java:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ8°Íì¶´.HRMINORZ
+CODE_SMELL
+r	java:S125"<This block of commented-out lines of code should be removed.(ˆŸ†Ùþÿÿÿÿ8°Íì¶´.HRMAJORZ
+CODE_SMELL

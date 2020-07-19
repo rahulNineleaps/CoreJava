@@ -1,0 +1,26 @@
+
+[
+java:S1172"(Remove this unused method parameter "s".(¿­8§ÚÁĞ´.H…RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(¤«„ô8¹¸±Í´.H~RMAJORZ
+CODE_SMELL
+Y
+java:S1481!"&Remove this unused "d" local variable.(Úœı8¹¸±Í´.HRMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ĞÒÑÀÿÿÿÿÿ8§ÚÁĞ´.H‡RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ßÎüıÿÿÿÿ8§ÚÁĞ´.H‰RMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(ûæñÛ8‡ ÈĞ´.HRMAJORZ
+CODE_SMELL
+p	java:S106	"9Replace this use of System.out or System.err by a logger.(Îşô·úÿÿÿÿ8‡ ÈĞ´.HRMAJORZ
+CODE_SMELL
+„	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊØ¼ŒH|RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÇØÉşÿÿÿÿ8‘ŞĞ´.H˜RMAJORZ
+CODE_SMELL
+g
+java:S1854!"5Remove this useless assignment to local variable "d".(Úœı8¹¸±Í´.H{RMAJORZ
+CODE_SMELL
+n	java:S125-"<This block of commented-out lines of code should be removed.(·â8ÌûâĞ´.HšRMAJORZ
+CODE_SMELL
